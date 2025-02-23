@@ -1,4 +1,5 @@
 # PRODIGY_SD_02
+
 Task 2: Guessing Game
 This repository contains a Python program that generates a random number and challenges the user to guess it. The user receives feedback on whether their guess is too high or too low, and the game continues until the correct number is guessed.
 
