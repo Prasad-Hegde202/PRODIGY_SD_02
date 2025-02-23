@@ -16,6 +16,7 @@ If the randomly generated number is 42 and the guesses are:
 Input: 50 → Output: Too high, try again.
 Input: 30 → Output: Too low, try again.
 Input: 42 → Output: Congratulations! You guessed the number 42 in 3 attempts.
+
 Requirements:
 Python 3.12.1
 
