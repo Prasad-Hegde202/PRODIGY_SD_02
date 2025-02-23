@@ -9,11 +9,7 @@ Prompts the user to input a guess.
 Provides feedback if the guess is too high or too low.
 Tracks the number of attempts it takes to guess the correct number.
 Displays the number of attempts once the game is won.
-Usage:
-Clone the repository to your local machine.
-Navigate to the Task-2 directory.
-Run the Python script in your terminal or IDE.
-Enter your guess when prompted, and continue guessing until you find the correct number.
+
 Example:
 If the randomly generated number is 42 and the guesses are:
 
